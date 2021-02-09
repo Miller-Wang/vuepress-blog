@@ -1,7 +1,7 @@
 module.exports = {
   title: "我的小站", // 网站标题
   favicon: "/img/avatar.jpg", // 网页标签的图标
-  base: "/blog-site/", // 部署路径，跟创建的git仓库名一致
+  base: "/vuepress-blog/", // 部署路径，跟创建的git仓库名一致
   themeConfig: {
     logo: "/img/avatar.jpg", // 导航栏logo
     authorAvatar: "/img/avatar.jpg", // 右侧边栏头像
